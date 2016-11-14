@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "207459463209",
+    "project_id": "firebase-locationdemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207459463209:android:4961d6310d6c1f23",
+        "android_client_info": {
+          "package_name": "com.example.ajay.locationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207459463209-p9i28esd2m8fnaqk54hmdfmt8mrp4b7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ajay.locationdemo",
+            "certificate_hash": "E5E17BF04343250AE0778AB5E2AC850990F80C9B"
+          }
+        },
+        {
+          "client_id": "207459463209-pcnbmskj8qmtabvoq6jmaen0od2prrjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDH3_WN5VQLTtPNM-omOcDz4GSn8MyYKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
