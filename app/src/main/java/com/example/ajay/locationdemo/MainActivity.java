@@ -25,6 +25,8 @@ import com.google.android.gms.location.LocationSettingsStatusCodes;
 
 public class MainActivity extends MarshMallowSupportActivity implements GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, LocationListener {
 
+
+    //EnJoY
     private final int MY_PERMISSIONS_REQUEST_ACCESS_LOCATION = 1;
     private Permission.PermissionBuilder permissionBuilder;
     private GoogleApiClient googleApiClient;
